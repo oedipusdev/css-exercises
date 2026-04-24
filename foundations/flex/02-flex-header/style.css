@@ -22,6 +22,7 @@ ul {
   flex-direction: row;
   display: flex;
   padding: 0;
+  gap: 8px;
 
 
 
