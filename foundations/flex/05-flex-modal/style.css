@@ -85,6 +85,6 @@ button.cancel {
 }
 .buttons {
   display: flex;
-  padding: 16px;
+  gap: 8px;
   justify-content: flex-start;
 }
