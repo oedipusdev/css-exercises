@@ -68,3 +68,6 @@ a {
 .footer .left-links {
   display: flex;
 }
+.footer .right-links {
+  display: flex;
+}
