@@ -25,8 +25,12 @@ img {
   justify-content: center;
   background: #eee;
 }
-.container {
+.images {
   display: flex;
+  
 
 }
-
+.images .text {
+  display: flex;
+  flex-wrap: wrap;
+}
