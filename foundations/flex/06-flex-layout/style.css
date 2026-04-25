@@ -64,5 +64,7 @@ a {
 }
 .footer {
   display: flex;
-
+}
+.footer .left-links {
+  display: flex;
 }
