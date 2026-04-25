@@ -70,6 +70,11 @@ button.cancel {
 .item {
   display: flex;
   justify-content: flex-start;
+  text-align: center;
   
 
+}
+.main {
+  display: flex;
+  
 }
