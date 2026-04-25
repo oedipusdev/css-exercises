@@ -30,6 +30,7 @@ input {
 .header {
   display: flex;
 }
+
 ul {
   list-style: none;
 }
@@ -37,4 +38,14 @@ ul {
 a {
   text-decoration: none;
   color: gray;
+}
+.header .left-links {
+  display: flex;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.header .right-links {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
 }
