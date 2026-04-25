@@ -31,6 +31,8 @@ input {
 }
 .header {
   display: flex;
+  justify-content: space-between;
+  padding: 0 16px;
 }
 
 ul {
@@ -43,13 +45,11 @@ a {
 }
 .header .left-links {
   display: flex;
-  justify-content: flex-start;
   gap: 8px;
-  flex:
+
 }
 .header .right-links {
   display: flex;
-  justify-content: flex-end;
   gap: 8px;
 }
 .content {
