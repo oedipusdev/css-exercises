@@ -64,10 +64,13 @@ a {
 }
 .footer {
   display: flex;
+  justify-content: space-between;
 }
 .footer .left-links {
   display: flex;
+  gap: 8px;
 }
 .footer .right-links {
   display: flex;
+  gap: 8px;
 }
