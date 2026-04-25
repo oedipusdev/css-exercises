@@ -24,6 +24,10 @@ img {
   justify-content: center;
   background: #eee;
 }
+.images {
+  display: flex;
+  
+}
 .item {
   display: flex;
   justify-content: center;
