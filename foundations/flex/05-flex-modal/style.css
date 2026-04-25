@@ -71,10 +71,15 @@ button.cancel {
   display: flex;
   justify-content: flex-start;
   text-align: center;
+  margin: 12px;
   
 
 }
 .main {
   display: flex;
   
+}
+.header {
+  font-weight: bold;
+  font-size: larger;
 }
