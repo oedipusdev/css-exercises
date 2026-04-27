@@ -28,10 +28,11 @@ body {
 }
 
 .sidebar {
-  width: 300px;
+
   background: royalblue;
   box-sizing: border-box;
-  flex: 1 0 auto;
+  flex: 0 0 300px;
+  padding: 16px;
 }
 
 .card {
@@ -40,6 +41,8 @@ body {
   border-radius: 4px;
   display: flex;
   flex-wrap: wrap;
+  width: 250px;
+  
 }
 
 ul {
@@ -60,4 +63,7 @@ ul {
   display: flex;
   flex-wrap: wrap;
   padding: 48px;
+  flex: 1;
+  gap: 16px;
+  text-align: left;
 }
