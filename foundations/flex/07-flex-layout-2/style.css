@@ -9,6 +9,7 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+
 }
 
 .footer {
@@ -38,4 +39,9 @@ ul {
 .container {
   display: flex;
 }
-.
+.midpart {
+  display: flex;
+  justify-content: center;
+
+
+}
