@@ -15,6 +15,7 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  display: flex;
 }
 
 .sidebar {
@@ -32,4 +33,7 @@ body {
 ul {
   margin: 0;
   padding: 0;
+}
+.container {
+  display: flex;
 }
