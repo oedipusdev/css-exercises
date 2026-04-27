@@ -57,5 +57,7 @@ ul {
 
 }
 .wrapper {
-  
+  display: flex;
+  flex-wrap: wrap;
+  padding: 48px;
 }
