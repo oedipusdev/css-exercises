@@ -3,12 +3,19 @@ body {
   margin: 0;
   min-height: 100vh;
   text-align: center;
+  
 }
 
 .header {
   height: 72px;
   background: darkmagenta;
   color: white;
+  font-size: 32px;
+  font-weight: 900;
+  text-align: start;
+  padding: 16px 0 0 16px;
+       
+
 
 }
 
@@ -24,6 +31,7 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  flex: 1 0 auto;
 }
 
 .card {
@@ -41,6 +49,7 @@ ul {
 .container {
   display: flex;
   flex-direction: column;
+  min-height: 100vh;
 }
 .midpart {
   display: flex;
