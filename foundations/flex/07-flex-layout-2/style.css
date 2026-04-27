@@ -16,6 +16,7 @@ body {
   background: #eee;
   color: darkmagenta;
   display: flex;
+  flex-direction: column;
 }
 
 .sidebar {
@@ -37,3 +38,4 @@ ul {
 .container {
   display: flex;
 }
+.
