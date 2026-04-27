@@ -49,6 +49,10 @@ ul {
   margin: 0;
   padding: 0;
 }
+.sidebar a {
+  color: white;
+  text-decoration: none;
+}
 .container {
   display: flex;
   flex-direction: column;
@@ -66,4 +70,11 @@ ul {
   flex: 1;
   gap: 16px;
   text-align: left;
+}
+li {
+  font-size: 24px;
+  list-style: none;
+  text-align: left;
+  
+
 }
